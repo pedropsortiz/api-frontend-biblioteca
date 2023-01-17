@@ -8,3 +8,7 @@ body {
     Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   font-size: 15px;
 }
+
+#app {
+  margin-top: 30px;
+}
