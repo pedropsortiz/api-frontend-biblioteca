@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
-    "axios": "^1.2.2",
+    "axios": "^1.2.3",
     "jquery.maskedinput": "^1.4.1",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
